@@ -24,7 +24,7 @@ Outline:
 
 **Sample image**:
 
-(images/featherbook.png)
+![Initial Design of how its made](images/featherbook.PNG "Feather book design.")
 
 
 ## Files
