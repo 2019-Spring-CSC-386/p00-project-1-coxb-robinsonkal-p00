@@ -22,7 +22,7 @@ Outline:
   -initial setup
   
 
-**Sample image**:
+**Feather Book**:
 
 ![Initial Design of how its made](images/featherbook.PNG "Feather book design.")
 
