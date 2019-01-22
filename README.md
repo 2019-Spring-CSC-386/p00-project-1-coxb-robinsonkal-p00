@@ -34,3 +34,6 @@ Outline:
 - ReadMe: all the documentation and information of the project
 - FeatherBook: Where we will be adding the code to make the project work
 - ReaMeExample: how to do the ReadMe on our project
+
+## References
+
