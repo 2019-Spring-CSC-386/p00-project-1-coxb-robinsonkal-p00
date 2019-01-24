@@ -1,5 +1,11 @@
 # P00: A Light Hearted Book
-
+```diff
+- Nice idea. All in all, its quite simple, so I expect a nearly perfect implementation.
+- I found micro switches for your application. Should be in next week. Use a regular switch for testing in the meantime.
+- Pay attention to markdown formatting, particularly in References section where everything ended up on a single line.
+- Good job diagramming the system, however, where's the RTC (if you're still using it)?
+- More detail on parts of code would be valuable. E.g., how long between switch flips? What kind of response (single, small beep or huge annoying alarm) occurs when they haven't flipped a page fast enough? How do they stop reading, or do they have to read forever as long as they own this device? 
+```
 **Author(s)**: Brian Cox and Kaleb Robinson
 
 **Google Document**: https://docs.google.com/document/d/1FxUdqYAApktBjegVLewhbV0h1axUhUuKEqjMwdc3cTM/edit?usp=sharing
