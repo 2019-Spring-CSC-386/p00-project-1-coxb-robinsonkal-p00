@@ -42,7 +42,7 @@ Outline:
 - ReaMeExample: how to do the ReadMe on our project
 
 ## References
-https://www.instructables.com/id/Arduino-Aquaponics-Real-Time-Clock-Part-I/ - how to attach clock
-https://github.com/PaulStoffregen/Time - sample time library
-http://docs.macetech.com/doku.php/chronodot_v2.0 - main time code example
+- how to attach clock: https://www.instructables.com/id/Arduino-Aquaponics-Real-Time-Clock-Part-I/ 
+- sample time library: https://github.com/PaulStoffregen/Time 
+- main time code example: http://docs.macetech.com/doku.php/chronodot_v2.0 
 
