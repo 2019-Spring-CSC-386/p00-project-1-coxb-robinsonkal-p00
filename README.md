@@ -9,8 +9,9 @@
 
 We want to create a system that will alert the user that they havent flipped a page in a while. 
 Reminding them to read more and in a timly manner. This system will include a feather/very sensitive
-switch to sense when a page is being turned. It will then reset a timer tjhat will, when ended, 
-will sound a buzzer until the user reads more.
+switch to sense when a page is being turned. It will then reset a timer that after five minutes of no 
+flipping pages(detected using the switch) will sound a loud and annoying buzzer until the user reads more.
+You stop the gizmo by disabling its power source.
 
 ## Initial Design Plan
 
