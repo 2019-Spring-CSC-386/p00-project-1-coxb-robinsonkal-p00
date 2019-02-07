@@ -44,24 +44,24 @@ void loop() {
     Serial.println("");
 
     timecheck++;
-    if (timecheck==1){
+    if (timecheck==1){//gets the current time and makes it into variable
       oldminutes = minutes;
       oldseconds = seconds;
       }
-    if (minutes==oldminutes+5 && readcheck==0){
+    if (minutes==oldminutes+5 && readcheck==0){//if 5 minutes has passed and switch has no been used
 
-        if (seconds >= oldseconds && readcheck==0){
+        if (seconds >= oldseconds && readcheck==0){//if right amount of seconds has passed
         tone(8,1000,500);
         Serial.println("Sound");
         }
       }
-    else if (minutes>oldminutes+5 && readcheck==0){
+    else if (minutes>oldminutes+5 && readcheck==0){//if the minutes is greater than 5 and the dwitch has not been used, play a tone
         tone(8,1000,500);
         Serial.println("Sound");
       }
     
       Serial.println(readcheck);
-    if (minutes==oldminutes+5 && readcheck>0){
+    if (minutes==oldminutes+5 && readcheck>0){//if minutes is greater than 5 and switch has been enabled, reset old time and switch value
       if(seconds >= oldseconds && readcheck>0){
       timecheck = 0;
       readcheck = 0;
