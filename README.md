@@ -83,14 +83,16 @@ Majors need. I also have a better understanding of how the
 Arduino language is and works. 
 
 
-Kaleb:
+Kaleb: I learned a lot about how to code in arduino from this project. I 
+how to use time, how to better use tone, and learned how to use and implement
+a switch in a project. I also learned more about wiring and how it worked.
+Multiple wires in our project connected to the same port in the arduino, so
+I got good practice with breadboards and wiring.
 
-Write 2 - 4 paragraphs on your reactions to the final project. 
-Your reflection should be thoughtful and reflective. 
-It is NOT a report about WHAT you did. 
-Instead, it's a look back at what you learned by doing this project.
-It should be critical of shortcomings (yours, as well as the instructors/assignments) 
-as well as celebratory of what was achieved.
+We were able to achieve our first general idea pretty successfully. I 
+wish we had worked on our project a bit earlier, but we were able to get it working.
+One of the most annoying parts was trying to determine if it was the code
+that was the problem or the hardware. The switch often comes unplugged.
 
 
 
