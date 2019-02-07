@@ -95,11 +95,6 @@ as well as celebratory of what was achieved.
 
 
 ## Final Self-Evaluations
-*You'll complete this part at the end of the project. 
-Assign points to each team member in each category, based on their contribution to the team. 
-The sum of all member's points in each category cannot exceed 10. 
-For example, for Coding, Partner 1 could get 7 points, and Partner 2 gets 3 points. 
-You can't give both people 6 points each though, as the sum exceeds 10.
 
 ### Ideation, Brainstorming, Design:
 
